@@ -10,3 +10,4 @@ Route::get('/login', 'App\Http\Controllers\LoginControllers@index');
 Route::post('/login', 'App\Http\Controllers\LoginControllers@authenticate');
 
 Route::get('/inventory', 'App\Http\Controllers\InventoryControllers@index');
+Route::get('/hello', 'App\Http\Controllers\HelloController@index');
