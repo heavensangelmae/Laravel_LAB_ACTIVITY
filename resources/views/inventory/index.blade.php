@@ -5,9 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <title>Inventory Management</title>
-    <style>
-      /* Background Styling */
-      body {
+<style>
+        body {
         background: #000;
         display: flex;
         justify-content: center;
@@ -62,8 +61,8 @@
         background-color: #a52a2a; /* Lighter Red */
       }
 
-    </style>
-</head>
+
+</style></head>
 <body>
     <div class="container">
         <div class="row">

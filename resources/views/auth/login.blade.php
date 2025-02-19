@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-      /* Background Styling */
-      body {
+<style>
+        /* Background Styling */
+        body {
         background: #000;
         display: flex;
         justify-content: center;
@@ -64,8 +64,8 @@
         background-color: #a52a2a; /* Lighter Red */
       }
 
-    </style>
-</head>
+
+</style></head>
 <body>
     <div class="form-container">
         <h3>Login</h3>
