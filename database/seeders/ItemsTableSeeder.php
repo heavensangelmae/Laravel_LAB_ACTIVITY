@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\DB;
 class ItemsTableSeeder extends Seeder
 {
     public function run()
+    
     {
         DB::table('items')->insert([
             
